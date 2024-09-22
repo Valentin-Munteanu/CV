@@ -1,0 +1,41 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, SASS, TAILWIND CSS, JS, REACT.JS."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "MYSQL, PHP, LARAVEL, OOP, MVC, REST API, POSTMAN."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Figma – Prototyping, Interactive Design, Canva – Graphic Design, Layout Design."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.jpg",
+      "title": "IRE(Intercity & Regional RailExpress)",
+      "description": "The Private Railway Operator application is a comprehensive Full Stack solution designed to streamline the management of a private railway service.The application enhances operational efficiency by providing real-time data analytics and user-friendly interfaces for both administrators and customers.",
+      "stacks": "HTML, SCSS, JavaScript, MySql, Laravel, PHP, Leaflet Map."
+     
+    },
+    {
+      "id": "2",
+      "src": "./img/BikeLand.jpg",
+      "title": "Online Shop(Bike Land)",
+      "description": "Bike Land is an innovative online store dedicated to bike enthusiasts, featuring a comprehensive CRUD system that allows users to create, update, and manage their bike selections effortlessly. With soft delete functionality, products can be hidden without permanent removal. The platform includes robust user authentication, ensuring account confirmation for secure access. Customers can easily search and filter through a wide range of bikes, and sort results based on their preferences, making it a convenient and user-friendly shopping experience.",
+      "stacks": "HTML, SCSS, JavaScript, MySql, Laravel, PHP."
+    }
+
+  ]
+
+}
